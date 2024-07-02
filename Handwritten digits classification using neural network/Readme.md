@@ -1,1 +1,2 @@
-!["Logic"](digits_nn.jpg) 
+<img src="digits_nn.jpg" alt="Logic" width="700" height="600">
+
