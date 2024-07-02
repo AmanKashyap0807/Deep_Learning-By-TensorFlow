@@ -1,1 +1,1 @@
-<img src="[[image-url](https://github.com/AmanKashyap0807/Deep_Learning-By-TensorFlow/blob/main/Handwritten%20digits%20classification%20using%20neural%20network/digits_nn.jpg)](https://github.com/AmanKashyap0807/Deep_Learning-By-TensorFlow/blob/main/Handwritten%20digits%20classification%20using%20neural%20network/digits_nn.jpg?raw=true)" alt="Logic">
+!["Logic"](digits_nn.jpg) 
