@@ -1,1 +1,1 @@
-<img src="image-url" alt="Image description">
+<img src="[image-url](https://github.com/AmanKashyap0807/Deep_Learning-By-TensorFlow/blob/main/Handwritten%20digits%20classification%20using%20neural%20network/digits_nn.jpg)" alt="Logic">
